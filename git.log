@@ -1,0 +1,87 @@
+commit 0a48587388121e74b7a8c44ec4a1c098f7da0a99
+Author: Zagrosi <sz10g21@soton.ac.uk>
+Date:   Wed Mar 15 17:51:29 2023 +0000
+
+    Commit 14: Added report pdf and log
+
+commit 7d1ab78817ffe7dbcf1f453333228bc0ab95cc27
+Author: Zagrosi <sz10g21@soton.ac.uk>
+Date:   Wed Mar 15 17:47:50 2023 +0000
+
+    Commit 13: Finalised report
+
+commit 4a8e839d3e2df721b1c56936c35c1ff8c7fe1b90
+Author: Zagrosi <sz10g21@soton.ac.uk>
+Date:   Wed Mar 15 17:28:31 2023 +0000
+
+    Commit 12: Produced map plots and report file.
+
+commit dd26fc0c59863a2b4512931345bdbd33f70380cc
+Author: Zagrosi <sz10g21@soton.ac.uk>
+Date:   Tue Mar 14 03:20:19 2023 +0000
+
+    Commit 11: Updated report.tex and improved log files for consistency.
+
+commit 0ff0342419db2ff8d93daa090afb0bd8ee179081
+Author: Zagrosi <sz10g21@soton.ac.uk>
+Date:   Tue Mar 14 03:16:48 2023 +0000
+
+    Commit 10: Output respective csv tables for kml files, alongside png map
+    plots.
+
+commit b73c6512631c1f9ada745a2bc2e059256871b415
+Author: Zagrosi <sz10g21@soton.ac.uk>
+Date:   Sun Mar 12 20:20:54 2023 +0000
+
+    Commit 9: Updated python-plot-script.py file to remove branching error
+    code
+
+commit 05825c26f53a00add258c3ab781c9077965f2989
+Author: Zagrosi <sz10g21@soton.ac.uk>
+Date:   Sun Mar 12 20:20:29 2023 +0000
+
+    Commit 8: Initial creation of python-plot-script from working branch
+
+commit 524ccf98a1997ae3a18fb49fa8a43427b2b85cfc
+Author: Zagrosi <sz10g21@soton.ac.uk>
+Date:   Sun Mar 12 20:20:28 2023 +0000
+
+    Commit 7: Cleaning old scripts
+
+commit cfbf3db3bffdf62207a92bca3e2ac4df694bf9c3
+Merge: 5f0d4cc 2a82ea0
+Author: Zagrosi <sz10g21@soton.ac.uk>
+Date:   Sat Mar 11 19:17:52 2023 +0000
+
+    Commit 6: Merge branch 'python-addon'
+
+commit 5f0d4cc478e628f3a98bd804b6d96252f273203f
+Author: Zagrosi <sz10g21@soton.ac.uk>
+Date:   Sat Mar 11 19:17:04 2023 +0000
+
+    Commit 5: Attempting to resolve git merge conflict between master and
+    python-addon branches respectively.
+
+commit 994338f09d8d6e19b87aad1a27844f434041c2c5
+Author: Zagrosi <sz10g21@soton.ac.uk>
+Date:   Sat Mar 11 19:05:22 2023 +0000
+
+    Commit 4: Initial creation of python-plot-script from working branch
+
+commit 2a82ea0ae7977ebbf660a43d340306b169ba1db3
+Author: Zagrosi <sz10g21@soton.ac.uk>
+Date:   Sat Mar 11 19:05:21 2023 +0000
+
+    Commit 3: Added new function to the python-plot-script from python-addon
+
+commit b67944af045bc66d9e28a6faf2ca0dea9c8c8b53
+Author: Zagrosi <sz10g21@soton.ac.uk>
+Date:   Sat Mar 11 19:05:21 2023 +0000
+
+    Commit 2: Cleaning old scripts
+
+commit d32176e8ef18d6e08d56e23bf17bdbb597c02366
+Author: Zagrosi <sz10g21@soton.ac.uk>
+Date:   Sat Mar 11 18:59:37 2023 +0000
+
+    Commit 1: Completed create_csv.sh file to perform required function.
